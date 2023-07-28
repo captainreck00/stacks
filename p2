@@ -1,0 +1,6 @@
+
+def push_element():
+    global top
+    i=0
+    while i<=len(N):
+        if l[i][1]!="India" and N[i][2]<

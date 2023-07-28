@@ -1,0 +1,19 @@
+def push_element():
+    global top
+    i=0
+    while i<=len(l)
+        if l[i][2]=="Goa":
+            b=[l[i][0],l[i][1]]
+            status.append(b)
+            top +=1
+        i+=1
+
+def pop_element():
+    global top 
+    if top==-1:
+        print("Stack underflow")
+    else:
+        print(status.pop()) 
+        top-=1
+        
+                   
